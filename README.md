@@ -79,7 +79,7 @@ My strongest work sits at that intersection: a telehealth platform with an AI sy
   <a href="mailto:work.manishpandit1406@gmail.com">
     <img src="https://img.shields.io/badge/Email-work.manishpandit1406@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="#">
+  <a href="https://linkedin.com/in/manish-pandit-6bb183335">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="tel:+919971887022">
