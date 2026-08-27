@@ -51,7 +51,7 @@ Shipped a telehealth platform with an AI symptom analyzer and wrote a self-publi
 **Let's talk it through:**
 - 📧 [Email Me](mailto:work.manishpandit1406@gmail.com)
 - 🔗 [Portfolio](https://manishpandit1406.github.io/manish-portfolio/)
-- 💼 [LinkedIn](#)
+- 💼 [LinkedIn](https://www.linkedin.com/in/manish-pandit-6bb183335)
 
 </td>
 </tr>
