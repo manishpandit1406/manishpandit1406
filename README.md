@@ -51,7 +51,7 @@ Shipped a telehealth platform with an AI symptom analyzer and wrote a self-publi
 **Let's talk it through:**<br>
 [![Email Me](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.manishpandit1406@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://manishpandit1406.github.io/manish-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-pandit-6bb183335)
 
 </td>
 </tr>
