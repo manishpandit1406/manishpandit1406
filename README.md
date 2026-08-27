@@ -48,10 +48,10 @@ Shipped a telehealth platform with an AI symptom analyzer and wrote a self-publi
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-**Let's talk it through:**
-- 📧 [Email Me](mailto:work.manishpandit1406@gmail.com)
-- 🔗 [Portfolio](https://manishpandit1406.github.io/manish-portfolio/)
-- 💼 [LinkedIn](#)
+**Let's talk it through:**<br>
+[![Email Me](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.manishpandit1406@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://manishpandit1406.github.io/manish-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 
 </td>
 </tr>
@@ -88,6 +88,6 @@ Shipped a telehealth platform with an AI symptom analyzer and wrote a self-publi
 </tr>
 </table>
 
-[View LeetCode Profile →](https://leetcode.com/manishpandit1406/)
+[![View LeetCode Profile](https://img.shields.io/badge/View_LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/manishpandit1406/)
 
 </div>
