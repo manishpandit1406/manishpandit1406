@@ -57,8 +57,6 @@ Shipped a telehealth platform with an AI symptom analyzer and wrote a self-publi
 </tr>
 </table>
 
-<br>
-
 #### `03 — PROBLEM SOLVING`
 
 <div align="center">
