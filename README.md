@@ -1,6 +1,6 @@
 > loading neural weights... [done] █
 
-# Harsh Kumar Tiwari
+# Manish Pandit
 
 **AI/ML Engineer & full-stack builder** training multi-agent systems, telehealth platforms, and the interfaces between people and models — from Greater Noida, India.
 
@@ -47,6 +47,6 @@ My strongest work sits at that intersection: a telehealth platform with an AI sy
 
 // Prefer async? Send an email and I'll reply within 24 hours.
 
-- 📧 **Email:** work.harshkumartiwari1406@gmail.com
+- 📧 **Email:** work.manishpandit1406@gmail.com
 - 📞 **Phone:** +91 9971887022
 - 🔗 **Links:** [LinkedIn](#) • [GitHub](#)
