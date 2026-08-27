@@ -64,24 +64,24 @@ Shipped a telehealth platform with an AI symptom analyzer and wrote a self-publi
 <table>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats.tashif.codes/manishpandit1406&query=totalSolved&label=TOTAL%20SOLVED&color=0F172A&style=for-the-badge&labelColor=0F172A" alt="Total Solved"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats.tashif.codes/manishpandit1406&query=$.totalSolved&label=TOTAL%20SOLVED&color=0F172A&style=for-the-badge&labelColor=0F172A" alt="Total Solved"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats.tashif.codes/manishpandit1406&query=ranking&label=GLOBAL%20RANK&color=0F172A&style=for-the-badge&labelColor=0F172A" alt="Global Rank"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats.tashif.codes/manishpandit1406&query=$.ranking&label=GLOBAL%20RANK&color=0F172A&style=for-the-badge&labelColor=0F172A" alt="Global Rank"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats.tashif.codes/manishpandit1406&query=acceptanceRate&suffix=%25&label=ACCEPTANCE&color=0F172A&style=for-the-badge&labelColor=0F172A" alt="Acceptance Rate"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats.tashif.codes/manishpandit1406&query=$.acceptanceRate&suffix=%25&label=ACCEPTANCE&color=0F172A&style=for-the-badge&labelColor=0F172A" alt="Acceptance Rate"/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats.tashif.codes/manishpandit1406&query=easySolved&label=EASY&color=22C55E&style=flat-square&labelColor=0F172A" alt="Easy"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats.tashif.codes/manishpandit1406&query=$.easySolved&label=EASY&color=22C55E&style=flat-square&labelColor=0F172A" alt="Easy"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats.tashif.codes/manishpandit1406&query=mediumSolved&label=MEDIUM&color=F97316&style=flat-square&labelColor=0F172A" alt="Medium"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats.tashif.codes/manishpandit1406&query=$.mediumSolved&label=MEDIUM&color=F97316&style=flat-square&labelColor=0F172A" alt="Medium"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats.tashif.codes/manishpandit1406&query=hardSolved&label=HARD&color=EF4444&style=flat-square&labelColor=0F172A" alt="Hard"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats.tashif.codes/manishpandit1406&query=$.hardSolved&label=HARD&color=EF4444&style=flat-square&labelColor=0F172A" alt="Hard"/>
 </td>
 </tr>
 </table>
