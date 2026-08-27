@@ -51,7 +51,7 @@ Shipped a telehealth platform with an AI symptom analyzer and wrote a self-publi
 **Let's talk it through:**
 - 📧 [Email Me](mailto:work.manishpandit1406@gmail.com)
 - 🔗 [Portfolio](https://manishpandit1406.github.io/manish-portfolio/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/manish-pandit-6bb183335)
+- 💼 [LinkedIn](#)
 
 </td>
 </tr>
@@ -63,7 +63,30 @@ Shipped a telehealth platform with an AI symptom analyzer and wrote a self-publi
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/manishpandit1406?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats.tashif.codes/manishpandit1406&query=totalSolved&label=TOTAL%20SOLVED&color=0F172A&style=for-the-badge&labelColor=0F172A" alt="Total Solved"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats.tashif.codes/manishpandit1406&query=ranking&label=GLOBAL%20RANK&color=0F172A&style=for-the-badge&labelColor=0F172A" alt="Global Rank"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats.tashif.codes/manishpandit1406&query=acceptanceRate&suffix=%25&label=ACCEPTANCE&color=0F172A&style=for-the-badge&labelColor=0F172A" alt="Acceptance Rate"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats.tashif.codes/manishpandit1406&query=easySolved&label=EASY&color=22C55E&style=flat-square&labelColor=0F172A" alt="Easy"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats.tashif.codes/manishpandit1406&query=mediumSolved&label=MEDIUM&color=F97316&style=flat-square&labelColor=0F172A" alt="Medium"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats.tashif.codes/manishpandit1406&query=hardSolved&label=HARD&color=EF4444&style=flat-square&labelColor=0F172A" alt="Hard"/>
+</td>
+</tr>
+</table>
 
 [View LeetCode Profile →](https://leetcode.com/manishpandit1406/)
 
