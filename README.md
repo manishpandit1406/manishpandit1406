@@ -56,3 +56,15 @@ Shipped a telehealth platform with an AI symptom analyzer and wrote a self-publi
 </td>
 </tr>
 </table>
+
+<br>
+
+#### `03 — PROBLEM SOLVING`
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/manishpandit1406?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+
+[View LeetCode Profile →](https://leetcode.com/manishpandit1406/)
+
+</div>
