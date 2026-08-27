@@ -1,5 +1,5 @@
 <div align="center">
-  <code>> loading neural weights... [done] █</code><br><br>
+  <code>> Hello there, I'm Manish Pandit! █</code><br><br>
   <b>AI/ML Engineer & Full-Stack Builder</b> • 📍 Greater Noida, India
 </div>
 
@@ -40,7 +40,7 @@
       <ul>
         <li>📧 <a href="mailto:work.manishpandit1406@gmail.com">Email Me</a></li>
         <li>📞 +91 9971887022</li>
-        <li>🔗 <a href="#">LinkedIn</a> • <a href="#">GitHub</a></li>
+        <li>🔗 <a href="https://www.linkedin.com/in/manish-pandit-6bb183335">LinkedIn</li>
       </ul>
     </td>
   </tr>
