@@ -1,34 +1,58 @@
 <div align="center">
 
-# Manish Pandit
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=F97316&center=true&vCenter=true&width=500&lines=%3E+Hello+there%2C+I'm+Manish+Pandit!" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=F97316&center=true&vCenter=true&width=600&lines=%3E+loading+neural+weights...+%5Bdone%5D;AI%2FML+Engineer+%26+full-stack+builder;training+multi-agent+systems" alt="Typing SVG" />
-
-**AI/ML Engineer** & full-stack builder — telehealth platforms, agentic systems, and the interfaces between people and models. Greater Noida, India.
-
-[![Email](https://img.shields.io/badge/-work.manishpandit1406%40gmail.com-0F172A?style=for-the-badge&logo=gmail&logoColor=F97316)](mailto:work.manishpandit1406@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-0F172A?style=for-the-badge&logo=firefox&logoColor=F97316)](https://manishpandit1406.github.io/manish-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=F97316)](#)
-
-<sub>B.Tech AI & ML · Lloyd IET · 2024–2028 &nbsp;|&nbsp; 🩺 Medora (telehealth+AI) · 📄 Libraryy.in (doc SaaS) · 📘 "The $350,000 Worth Prompt" (book)</sub>
-
-<br>
-
-![Python](https://img.shields.io/badge/-Python-0F172A?style=flat-square&logo=python&logoColor=F97316)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=F97316)
-![Java](https://img.shields.io/badge/-Java-0F172A?style=flat-square&logo=openjdk&logoColor=F97316)
-![C](https://img.shields.io/badge/-C-0F172A?style=flat-square&logo=c&logoColor=F97316)
-![Node.js](https://img.shields.io/badge/-Node.js-0F172A?style=flat-square&logo=node.js&logoColor=F97316)
-![Express](https://img.shields.io/badge/-Express-0F172A?style=flat-square&logo=express&logoColor=F97316)
-![MongoDB](https://img.shields.io/badge/-MongoDB-0F172A?style=flat-square&logo=mongodb&logoColor=F97316)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0F172A?style=flat-square&logo=postgresql&logoColor=F97316)
-![React](https://img.shields.io/badge/-React-0F172A?style=flat-square&logo=react&logoColor=F97316)
-![Tailwind](https://img.shields.io/badge/-Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=F97316)
-![PromptEng](https://img.shields.io/badge/-Prompt%20Engineering-0F172A?style=flat-square&logo=openai&logoColor=F97316)
-![Git](https://img.shields.io/badge/-Git-0F172A?style=flat-square&logo=git&logoColor=F97316)
-![Docker](https://img.shields.io/badge/-Docker-0F172A?style=flat-square&logo=docker&logoColor=F97316)
-![Linux](https://img.shields.io/badge/-Linux-0F172A?style=flat-square&logo=linux&logoColor=F97316)
-
-<sub><i>Building something with AI at the core? Let's talk it through.</i></sub>
+**AI/ML Engineer & Full-Stack Builder** • 📍 Greater Noida, India
 
 </div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### `01 — PROFILE & STATS`
+
+> Models are only half the system. The other half is what people do with them.
+
+B.Tech (AI & ML) at Lloyd Institute (`2024–2028`). Building at the intersection of backend engineering (MERN) and applied AI (prompt engineering, agentic frameworks).
+
+Shipped a telehealth platform with an AI symptom analyzer and wrote a self-published book on communicating with AI systems.
+
+<table>
+<tr>
+<td align="center"><b>CGPA</b><br>7.0</td>
+<td align="center"><b>FOCUS</b><br>AI & ML</td>
+<td align="center"><b>SHIPPED</b><br>02 Platforms</td>
+<td align="center"><b>PUBLISHED</b><br>01 Book</td>
+</tr>
+</table>
+
+</td>
+<td width="50%" valign="top">
+
+#### `02 — STACK & CONTACT`
+
+**Core Stack:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**AI/ML & Tools:**
+
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-6D28D9?style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Let's talk it through:**
+- 📧 [Email Me](mailto:work.manishpandit1406@gmail.com)
+- 🔗 [Portfolio](https://manishpandit1406.github.io/manish-portfolio/)
+- 💼 [LinkedIn](#)
+
+</td>
+</tr>
+</table>
